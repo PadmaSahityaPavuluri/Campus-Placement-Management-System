@@ -40,7 +40,38 @@ public class ApplicationDbContext : DbContext
             .Property(c => c.MinCGPA)
             .HasPrecision(3, 2);
 
+        // ==========================
+        // Relationships
+        // ==========================
+
+        modelBuilder.Entity<Student>()
+            .HasOne(s => s.User)
+            .WithMany()
+            .HasForeignKey(s => s.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<PlacementDrive>()
+            .HasOne(p => p.Company)
+            .WithMany()
+            .HasForeignKey(p => p.CompanyId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<Application>()
+            .HasOne(a => a.Student)
+            .WithMany()
+            .HasForeignKey(a => a.StudentId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<Application>()
+            .HasOne(a => a.PlacementDrive)
+            .WithMany()
+            .HasForeignKey(a => a.DriveId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        // ==========================
         // Seed Roles
+        // ==========================
+
         modelBuilder.Entity<Role>().HasData(
             new Role
             {
