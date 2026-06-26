@@ -6,34 +6,12 @@ C:\Campus Placement Management System\Campus Placement Management System\bin\Deb
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Campus Placement Management System.runtimeconfig.json
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Campus Placement Management System.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Campus Placement Management System.pdb
-C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.csproj.AssemblyReference.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.GeneratedMSBuildEditorConfig.editorconfig
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.AssemblyInfoInputs.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.AssemblyInfo.cs
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.csproj.CoreCompileInputs.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.MvcApplicationPartsAssemblyInfo.cs
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.MvcApplicationPartsAssemblyInfo.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\scopedcss\bundle\Campus Placement Management System.styles.css
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.development.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\swae.build.ex.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus P.BF83AF13.Up2Date
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.dll
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\refint\Campus Placement Management System.dll
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.pdb
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.genruntimeconfig.cache
-C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\ref\Campus Placement Management System.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Azure.Core.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Azure.Identity.dll
+C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\BCrypt-Net-Next.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Humanizer.dll
+C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.Build.Framework.dll
@@ -58,6 +36,7 @@ C:\Campus Placement Management System\Campus Placement Management System\bin\Deb
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Mono.TextTemplating.dll
@@ -156,5 +135,27 @@ C:\Campus Placement Management System\Campus Placement Management System\bin\Deb
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\BCrypt-Net-Next.dll
-C:\Campus Placement Management System\Campus Placement Management System\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.csproj.AssemblyReference.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.AssemblyInfoInputs.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.AssemblyInfo.cs
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.csproj.CoreCompileInputs.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.sourcelink.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\scopedcss\bundle\Campus Placement Management System.styles.css
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.development.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\swae.build.ex.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus P.BF83AF13.Up2Date
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.dll
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\refint\Campus Placement Management System.dll
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.pdb
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\Campus Placement Management System.genruntimeconfig.cache
+C:\Campus Placement Management System\Campus Placement Management System\obj\Debug\net10.0\ref\Campus Placement Management System.dll
